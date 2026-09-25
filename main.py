@@ -2,16 +2,22 @@
 Sistema de cadastro de reserva de estudantes - Projeto Final
 Disciplina de Estrutura de Dados
 
-ENTREGA 4.2 - Operacoes do(a) Secretario(a) (Secao 3.1) e do(a) Diretor(a)
-(Secao 3.2)
-
 Interface com o usuario (menus, leitura de teclado). Este arquivo NAO se
-comunica diretamente com as estruturas de dados: toda a comunicacao passa
-pelos modulos atribuicoes_secretario.py e atribuicoes_diretor.py.
+comunica diretamente com as estruturas de dados (Lista Encadeada, Arvore,
+Grafo): toda a comunicacao passa pelos modulos atribuicoes_secretario.py,
+atribuicoes_diretor.py e atribuicoes_assistente.py.
+
+Fluxo do sistema (simulando, em uma unica execucao, a troca de
+funcionarios que em um sistema real usaria um banco de dados):
+    1) Secretario(a) cadastra pessoas na lista de espera.
+    2) Diretor(a) valida/edita/consulta a lista (agora como arvore
+       binaria de busca).
+    3) Assistente consulta distancias entre cidades (grafo ponderado).
 """
 
 import atribuicoes_secretario as secretario
 import atribuicoes_diretor as diretor
+import atribuicoes_assistente as assistente
 
 
 # ---------------------------------------------------------------------
@@ -176,12 +182,84 @@ def menu_diretor(lista_espera):
 
 
 # ---------------------------------------------------------------------
+# Menu do(a) Assistente - Secao 3.3
+# ---------------------------------------------------------------------
+
+def menu_assistente(arvore):
+    grafo = assistente.gerar_grafo()
+
+    print("\n------------- Olá, Assistente! -------------\n")
+
+    while True:
+        print("Você deseja:")
+        print("(1) Ver a menor distância entre a cidade da escola e a cidade de uma pessoa.")
+        print("(2) Ver a menor distância da cidade da escola até a cidade da pessoa passando por uma cidade específica.")
+        print("(3) Ver dados da(s) pessoa(s) que mora(m) na cidade mais perto da cidade da escola (incluindo distância).")
+        print("(4) Finalizar execução.")
+        opcao = ler_opcao(1, 4)
+        print()
+
+        if opcao == 1:
+            nome = input("Digite o nome da pessoa cuja cidade te interessa: ").strip()
+            pessoa = diretor.buscar_pessoa(arvore, nome)
+            if pessoa is None:
+                print("Pessoa não cadastrada ou lista de espera vazia. Tem certeza que o nome da pessoa está certo?")
+            else:
+                print(pessoa)
+                caminho, custo = assistente.menor_distancia_ate_pessoa(grafo, pessoa)
+                if caminho is None:
+                    print(f"Não foi encontrado caminho entre {assistente.CIDADE_ESCOLA} e {pessoa.cidade}.")
+                else:
+                    print(f"Menor caminho = {caminho} com custo {custo:g}")
+
+        elif opcao == 2:
+            nome = input("Digite o nome da pessoa cuja cidade te interessa: ").strip()
+            pessoa = diretor.buscar_pessoa(arvore, nome)
+            if pessoa is None:
+                print("Pessoa não cadastrada ou lista de espera vazia. Tem certeza que o nome da pessoa está certo?")
+            else:
+                print(pessoa)
+                caminho, custo = assistente.menor_distancia_com_intermediaria(grafo, pessoa)
+                if caminho is None:
+                    print(
+                        f"Não foi encontrado caminho entre {assistente.CIDADE_ESCOLA} e "
+                        f"{pessoa.cidade} passando por {assistente.CIDADE_INTERMEDIARIA_FIXA}."
+                    )
+                else:
+                    print(f"Menor caminho = {caminho} com custo {custo:g}")
+
+        elif opcao == 3:
+            pessoas = diretor.listar_pessoas(arvore)
+            if not pessoas:
+                print("Não há pessoas cadastradas na lista de espera.")
+            else:
+                cidade, distancia = assistente.cidade_mais_proxima_da_escola_com_moradores(grafo, pessoas)
+                if cidade is None:
+                    print("Não foi possível determinar a cidade mais próxima.")
+                else:
+                    print(
+                        f"A cidade mais próxima à cidade da escola que tem moradores na "
+                        f"lista de espera (ver abaixo) é {cidade}. Distância = {distancia:g}"
+                    )
+                    for pessoa in pessoas:
+                        if pessoa.cidade == cidade:
+                            print(pessoa)
+
+        elif opcao == 4:
+            print("Fim das atividades sob responsabilidade do(a) Assistente. Encerrando o sistema.")
+            break
+
+        print()
+
+
+# ---------------------------------------------------------------------
 # Ponto de entrada
 # ---------------------------------------------------------------------
 
 def main():
     lista_espera = menu_secretario()
-    menu_diretor(lista_espera)
+    arvore = menu_diretor(lista_espera)
+    menu_assistente(arvore)
 
 
 if __name__ == "__main__":
