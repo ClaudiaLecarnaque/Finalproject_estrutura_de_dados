@@ -1,0 +1,653 @@
+São Paulo;Alumínio;81
+São Paulo;Araçariguama;53
+São Paulo;Arujá;41
+São Paulo;Atibaia;67
+São Paulo;Barueri;31
+São Paulo;Biritiba-Mirim;80
+São Paulo;Bom Jesus dos Perdões;78
+São Paulo;Bragança Paulista;88
+São Paulo;Cabreúva;83
+São Paulo;Caieiras;35
+São Paulo;Cajamar;43
+São Paulo;Campo Limpo Paulista;59
+São Paulo;Carapicuíba;27
+São Paulo;Cotia;33
+São Paulo;Cubatão;66
+São Paulo;Diadema;23
+São Paulo;Embu;28
+São Paulo;Embu-Guaçu;52
+São Paulo;Ferraz de Vasconcelos;32
+São Paulo;Francisco Morato;47
+São Paulo;Franco da Rocha;41
+São Paulo;Guararema;79
+São Paulo;Guarujá;96
+São Paulo;Guarulhos;18
+São Paulo;Ibiúna;70
+São Paulo;Igaratá;90
+São Paulo;Itapecerica da Serra;35
+São Paulo;Itapevi;40
+São Paulo;Itaquaquecetuba;41
+São Paulo;Itatiba;86
+São Paulo;Itupeva;76
+São Paulo;Jacareí;78
+São Paulo;Jandira;39
+São Paulo;Jarinú;73
+São Paulo;Jundiaí;60
+São Paulo;Juquitiba;72
+São Paulo;Louveira;75
+São Paulo;Mairinque;74
+São Paulo;Mairiporã;41
+São Paulo;Mauá;27
+São Paulo;Mogi das Cruzes;61
+São Paulo;Mongaguá;90
+São Paulo;Nazaré Paulista;90
+São Paulo;Osasco;21
+São Paulo;Piracaia;90
+São Paulo;Pirapora do Bom Jesus;61
+São Paulo;Poá;47
+São Paulo;Praia Grande;76
+São Paulo;Ribeirão Pires;34
+São Paulo;Rio Grande da Serra;49
+São Paulo;Santa Branca;94
+São Paulo;Santa Isabel;58
+São Paulo;Santana de Parnaíba;40
+São Paulo;Santo André;20
+São Paulo;Santos;77
+São Paulo;São Bernardo do Campo;21
+São Paulo;São Caetano do Sul;11
+São Paulo;São José dos Campos;92
+São Paulo;São Lourenço da Serra;53
+São Paulo;São Roque;69
+São Paulo;São Vicente;72
+São Paulo;Sorocaba;99
+São Paulo;Suzano;49
+São Paulo;Taboão da Serra;16
+São Paulo;Valinhos;89
+São Paulo;Vargem;99
+São Paulo;Vargem Grande Paulista;44
+São Paulo;Várzea Paulista;54
+São Paulo;Vinhedo;83
+Campinas;Adamantina;513
+Campinas;Aguaí;100
+Campinas;Águas da Prata;143
+Campinas;Águas de Lindóia;102
+Campinas;Águas de Santa Bárbara;279
+Campinas;Águas de São Pedro;101
+Campinas;Agudos;249
+Campinas;Alumínio;99
+Campinas;Americana;40
+Campinas;Amparo;61
+Campinas;Andradina;562
+Campinas;Angatuba;205
+Campinas;Aparecida;232
+Campinas;Apiaí;314
+Campinas;Araçariguama;97
+Campinas;Araçatuba;457
+Campinas;Campos do Jordão;233
+Campinas;Cananéia;305
+Campinas;Cândido Mota;403
+Campinas;Capão Bonito;217
+Campinas;Capivari;52
+Campinas;Caraguatatuba;238
+Campinas;Carapicuíba;94
+Campinas;Casa Branca;136
+Campinas;Castilho;583
+Campinas;Catanduva;304
+Campinas;Cerqueira César;269
+Campinas;Cerquilho;88
+Campinas;Charqueada;99
+Campinas;Conchal;78
+Campinas;Conchas;134
+Campinas;Cordeirópolis;72
+Campinas;Irapuã;344
+Campinas;Itaberá;310
+Campinas;Itanhaém;223
+Campinas;Itapecerica da Serra;111
+Campinas;Itapetininga;155
+Campinas;Itapeva;276
+Campinas;Itapevi;98
+Campinas;Itapira;70
+Campinas;Itaquaquecetuba;130
+Campinas;Itatiba;33
+Campinas;Itirapina;126
+Campinas;Itu;51
+Campinas;Itupeva;40
+Campinas;Jabotical;253
+Campinas;Jacareí;138
+Campinas;Jales;498
+Campinas;Nova Odessa;32
+Campinas;Novo Horizonte;315
+Campinas;Olímpia;350
+Campinas;Orlândia;274
+Campinas;Osasco;93
+Campinas;Ourinhos;347
+Campinas;Paraguaçu Paulista;444
+Campinas;Paranapanema;247
+Campinas;Paulínia;25
+Campinas;Pederneiras;237
+Campinas;Pedra Bela;94
+Campinas;Pedreira;44
+Campinas;Penápolis;415
+Campinas;Pereira Barreto;542
+Campinas;Peruíbe;231
+Campinas;Piedade;113
+Campinas;Santa Isabel;129
+Campinas;Santana de Parnaíba;77
+Campinas;Santo André;118
+Campinas;Santo Antônio de Posse;45
+Campinas;Santo Antônio do Jardim;112
+Campinas;Santos;189
+Campinas;São Bento do Sapucaí;245
+Campinas;São Bernardo do Campo;154
+Campinas;São Caetano do Sul;104
+Campinas;São Carlos;144
+Campinas;São João da Boa Vista;128
+Campinas;São Joaquim da Barra;293
+Campinas;São José do Rio Pardo;162
+Campinas;São José do Rio Preto;347
+Campinas;São José dos Campos;153
+Campinas;São Lourenço da Serra;126
+Campinas;Ribeirão Preto;225
+Ribeirão Preto;Adamantina;421
+Ribeirão Preto;Aguaí;159
+Ribeirão Preto;Águas de Lindóia;251
+Ribeirão Preto;Águas de São Pedro;223
+Ribeirão Preto;Altair;162
+Ribeirão Preto;Altinópolis;60
+Ribeirão Preto;Álvares Florence;288
+Ribeirão Preto;Americana;196
+Ribeirão Preto;Américo Brasiliense;81
+Ribeirão Preto;Américo de Campos;286
+Ribeirão Preto;Analândia;138
+Ribeirão Preto;Andradina;436
+Ribeirão Preto;Aparecida;453
+Ribeirão Preto;Aparecida d'Oeste;380
+Ribeirão Preto;Araçatuba;326
+Ribeirão Preto;Aramina;129
+Ribeirão Preto;Araraquara;89
+Ribeirão Preto;Araras;147
+Ribeirão Preto;Ariranha;117
+Ribeirão Preto;Artur Nogueira;205
+Ribeirão Preto;Aspásia;357
+Ribeirão Preto;Assis;341
+Ribeirão Preto;Atibaia;287
+Ribeirão Preto;Auriflama;318
+Ribeirão Preto;Avaré;265
+Ribeirão Preto;Bady Bassitt;201
+Ribeirão Preto;Balbinos;216
+Ribeirão Preto;Bálsamo;215
+Ribeirão Preto;Bananal;599
+Ribeirão Preto;Bariri;173
+Ribeirão Preto;Barra Bonita;182
+Ribeirão Preto;Barretos;119
+Ribeirão Preto;Barrinha;38
+Ribeirão Preto;Barueri (Alphaville);323
+Ribeirão Preto;Batatais;41
+Ribeirão Preto;Bauru;211
+Ribeirão Preto;Bebedouro;80
+Ribeirão Preto;Bertioga;444
+Ribeirão Preto;Birigui;303
+Ribeirão Preto;Bocaina;143
+Ribeirão Preto;Boituva;271
+Ribeirão Preto;Borborema;149
+Ribeirão Preto;Botucatu;239
+Ribeirão Preto;Bragança Paulista;290
+Ribeirão Preto;Brodósqui;29
+Ribeirão Preto;Brotas;165
+Ribeirão Preto;Buritizal;127
+Ribeirão Preto;Cachoeira Paulista;490
+Ribeirão Preto;Caconde;172
+Ribeirão Preto;Caieiras;315
+Ribeirão Preto;Cajamar;304
+Ribeirão Preto;Cajati;548
+Ribeirão Preto;Cajobi;119
+Ribeirão Preto;Cajuru;63
+Ribeirão Preto;Campinas;225
+Ribeirão Preto;Campos do Jordão;458
+Ribeirão Preto;Cândido Rodrigues;100
+Ribeirão Preto;Caraguatatuba;458
+Ribeirão Preto;Carapicuíba;330
+Ribeirão Preto;Cardoso;305
+Ribeirão Preto;Casa Branca;134
+Ribeirão Preto;Cássia dos Coqueiros;80
+Ribeirão Preto;Catanduva;142
+Ribeirão Preto;Catiguá;155
+Ribeirão Preto;Cedral;183
+Ribeirão Preto;Cidade Ocian;436
+Ribeirão Preto;Colina;101
+Ribeirão Preto;Colômbia;164
+Ribeirão Preto;Conchal;176
+Ribeirão Preto;Cordeirópolis;163
+Ribeirão Preto;Cosmópolis;200
+Ribeirão Preto;Cosmorama;251
+Ribeirão Preto;Cravinhos;23
+Ribeirão Preto;Cristais Paulista;106
+Ribeirão Preto;Cruzeiro;500
+Ribeirão Preto;Cubatão;395
+Ribeirão Preto;Descalvado;100
+Ribeirão Preto;Diadema;349
+Ribeirão Preto;Dirce Reis;358
+Ribeirão Preto;Divinolândia;158
+Ribeirão Preto;Dobrada;92
+Ribeirão Preto;Dois Córregos;172
+Ribeirão Preto;Dolcinópolis;350
+Ribeirão Preto;Dourado;142
+Ribeirão Preto;Dracena;452
+Ribeirão Preto;Dumont;21
+Ribeirão Preto;Elisiário;153
+Ribeirão Preto;Embaúba;129
+Ribeirão Preto;Espírito Santo do Pinhal;202
+Ribeirão Preto;Estrela d'Oeste;320
+Ribeirão Preto;Fernando Prestes;104
+Ribeirão Preto;Fernandópolis;305
+Ribeirão Preto;Floreal;272
+Ribeirão Preto;Franca;88
+Ribeirão Preto;Gália;271
+Ribeirão Preto;Garça;275
+Ribeirão Preto;Gastão Vidigal;288
+Ribeirão Preto;Gavião Peixoto;136
+Ribeirão Preto;General Salgado;295
+Ribeirão Preto;Guaíra;135
+Ribeirão Preto;Guapiaçu;171
+Ribeirão Preto;Guará;90
+Ribeirão Preto;Guaraci;159
+Ribeirão Preto;Guarani d'Oeste;330
+Ribeirão Preto;Guaratinguetá;459
+Ribeirão Preto;Guariba;57
+Ribeirão Preto;Guarujá;448
+Ribeirão Preto;Guarulhos;347
+Ribeirão Preto;Guatapará;64
+Ribeirão Preto;Guzolândia;327
+Ribeirão Preto;Holambra;216
+Ribeirão Preto;Hortolândia;210
+Ribeirão Preto;Ibaté;113
+Ribeirão Preto;Ibirá;172
+Ribeirão Preto;Ibitinga;145
+Ribeirão Preto;Icém;184
+Ribeirão Preto;Igarapava;136
+Ribeirão Preto;Ilha Comprida;517
+Ribeirão Preto;Ilhabela;490
+Ribeirão Preto;Indaiatuba;251
+Ribeirão Preto;Indiaporã;348
+Ribeirão Preto;Ipiguá;202
+Ribeirão Preto;Iporanga;511
+Ribeirão Preto;Ipuã;100
+Ribeirão Preto;Iracemápolis;180
+Ribeirão Preto;Irapuã;193
+Ribeirão Preto;Itajobi;160
+Ribeirão Preto;Itanhaém;458
+Ribeirão Preto;Itapetininga;330
+Ribeirão Preto;Itapeva;403
+Ribeirão Preto;Itápolis;126
+Ribeirão Preto;Itaquaquecetuba;371
+Ribeirão Preto;Itirapina;135
+Ribeirão Preto;Itirapuã;112
+Ribeirão Preto;Itu;296
+Ribeirão Preto;Itupeva;271
+Ribeirão Preto;Ituverava;103
+Ribeirão Preto;Jaborandi;115
+Ribeirão Preto;Jaboticabal;59
+Ribeirão Preto;Jacareí;361
+Ribeirão Preto;Jaci;214
+Ribeirão Preto;Jales;334
+Ribeirão Preto;Jardinópolis;24
+Ribeirão Preto;Jaú;161
+Ribeirão Preto;Jeriquara;130
+Ribeirão Preto;José Bonifácio;239
+Ribeirão Preto;Jundiaí;278
+Ribeirão Preto;Laranjal Paulista;269
+Ribeirão Preto;Leme;127
+Ribeirão Preto;Lençóis Paulista;213
+Ribeirão Preto;Limeira;171
+Ribeirão Preto;Lins;236
+Ribeirão Preto;Lorena;479
+Ribeirão Preto;Louveira;247
+Ribeirão Preto;Luís Antônio;54
+Ribeirão Preto;Macaubal;261
+Ribeirão Preto;Macedônia;318
+Ribeirão Preto;Magda;281
+Ribeirão Preto;Mairinque;345
+Ribeirão Preto;Manduri;312
+Ribeirão Preto;Marapoama;165
+Ribeirão Preto;Maresias;528
+Ribeirão Preto;Marília;268
+Ribeirão Preto;Marinópolis;373
+Ribeirão Preto;Matão;98
+Ribeirão Preto;Mauá;403
+Ribeirão Preto;Mendonça;217
+Ribeirão Preto;Meridiano;295
+Ribeirão Preto;Mesópolis;374
+Ribeirão Preto;Miguelópolis;124
+Ribeirão Preto;Mineiros do Tietê;177
+Ribeirão Preto;Mira Estrela;337
+Ribeirão Preto;Mirandópolis;400
+Ribeirão Preto;Mirassol;203
+Ribeirão Preto;Mirassolândia;212
+Ribeirão Preto;Mococa;111
+Ribeirão Preto;Moji-Mirim;199
+Ribeirão Preto;Mogi das Cruzes;391
+Ribeirão Preto;Mogi Guaçu;187
+Ribeirão Preto;Monções;283
+Ribeirão Preto;Mongaguá;441
+Ribeirão Preto;Monte Alto;80
+Ribeirão Preto;Monte Aprazível;224
+Ribeirão Preto;Monte Azul Paulista;97
+Ribeirão Preto;Monte Mor;223
+Ribeirão Preto;Morro Agudo;71
+Ribeirão Preto;Motuca;85
+Ribeirão Preto;Neves Paulista;220
+Ribeirão Preto;Nhandeara;260
+Ribeirão Preto;Nipoã;244
+Ribeirão Preto;Nova Aliança;213
+Ribeirão Preto;Nova Canaã Paulista;394
+Ribeirão Preto;Nova Castilho;316
+Ribeirão Preto;Nova Europa;136
+Ribeirão Preto;Nova Granada;225
+Ribeirão Preto;Nova Luzitânia;297
+Ribeirão Preto;Nova Odessa;203
+Ribeirão Preto;Novais;139
+Ribeirão Preto;Novo Horizonte;170
+Ribeirão Preto;Nuporanga;65
+Ribeirão Preto;Olímpia;132
+Ribeirão Preto;Onda Verde;208
+Ribeirão Preto;Orindiúva;213
+Ribeirão Preto;Orlândia;56
+Ribeirão Preto;Osasco;330
+Ribeirão Preto;Ourinhos;329
+Ribeirão Preto;Ouroeste;339
+Ribeirão Preto;Palestina;228
+Ribeirão Preto;Palmares Paulista;118
+Ribeirão Preto;Palmeira d'Oeste;367
+Ribeirão Preto;Palmital;367
+Ribeirão Preto;Panorama;365
+Ribeirão Preto;Paraguaçu Paulista;343
+Ribeirão Preto;Paraibuna;406
+Ribeirão Preto;Paraíso;120
+Ribeirão Preto;Paranapanema;343
+Ribeirão Preto;Paranapuã;356
+Ribeirão Preto;Parisi;283
+Ribeirão Preto;Parque Hopi Hari;265
+Ribeirão Preto;Pariquera-Açu;530
+Ribeirão Preto;Patrocínio Paulista;108
+Ribeirão Preto;Paulínia;216
+Ribeirão Preto;Paulo de Faria;233
+Ribeirão Preto;Pederneiras;184
+Ribeirão Preto;Pedranópolis;297
+Ribeirão Preto;Pedregulho;134
+Ribeirão Preto;Pedreira;238
+Ribeirão Preto;Penápolis;285
+Ribeirão Preto;Pereira Barreto;387
+Ribeirão Preto;Peruíbe;487
+Ribeirão Preto;Piedade;354
+Ribeirão Preto;Pindamonhangaba;415
+Ribeirão Preto;Pindorama;137
+Ribeirão Preto;Pinhalzinho;275
+Ribeirão Preto;Piracicaba;205
+Ribeirão Preto;Pirajuí;216
+Ribeirão Preto;Pirassununga;107
+Ribeirão Preto;Pitangueiras;52
+Ribeirão Preto;Poá;376
+Ribeirão Preto;Poloni;237
+Ribeirão Preto;Pompéia;302
+Ribeirão Preto;Pongaí;183
+Ribeirão Preto;Pontal;39
+Ribeirão Preto;Pontalinda;334
+Ribeirão Preto;Pontes Gestal;273
+Ribeirão Preto;Populina;360
+Ribeirão Preto;Porto Feliz;262
+Ribeirão Preto;Porto Ferreira;90
+Ribeirão Preto;Potirendaba;192
+Ribeirão Preto;Pradópolis;37
+Ribeirão Preto;Praia Grande;426
+Ribeirão Preto;Presidente Epitácio;530
+Ribeirão Preto;Presidente Prudente;441
+Ribeirão Preto;Presidente Venceslau;503
+Ribeirão Preto;Promissão;258
+Ribeirão Preto;Rancharia;386
+Ribeirão Preto;Regente Feijó;440
+Ribeirão Preto;Restinga;80
+Ribeirão Preto;Ribeirão Bonito;136
+Ribeirão Preto;Ribeirão Corrente;114
+Ribeirão Preto;Ribeirão Pires;373
+Ribeirão Preto;Rifaina;155
+Ribeirão Preto;Rincão;70
+Ribeirão Preto;Rio Claro;162
+Ribeirão Preto;Rio Grande da Serra;381
+Ribeirão Preto;Riolândia;269
+Ribeirão Preto;Riviera de São Lourenço;443
+Ribeirão Preto;Rubinéia;383
+Ribeirão Preto;Sales Oliveira;54
+Ribeirão Preto;Salto;260
+Ribeirão Preto;Salto de Pirapora;350
+Ribeirão Preto;Santa Adélia;122
+Ribeirão Preto;Santa Albertina;365
+Ribeirão Preto;Santa Bárbara d'Oeste;199
+Ribeirão Preto;Santa Clara d'Oeste;388
+Ribeirão Preto;Santa Cruz da Esperança;48
+Ribeirão Preto;Santa Cruz das Palmeiras;114
+Ribeirão Preto;Santa Cruz do Rio Pardo;308
+Ribeirão Preto;Santa Ernestina;86
+Ribeirão Preto;Santa Fé do Sul;376
+Ribeirão Preto;Santa Gertrudes;168
+Ribeirão Preto;Santa Isabel;352
+Ribeirão Preto;Santa Lúcia;74
+Ribeirão Preto;Santa Rita d'Oeste;379
+Ribeirão Preto;Santa Rita do Passa Quatro;86
+Ribeirão Preto;Santa Rosa de Viterbo;71
+Ribeirão Preto;Santa Salete;352
+Ribeirão Preto;Santana da Ponte Pensa;364
+Ribeirão Preto;Santo Anastácio;480
+Ribeirão Preto;Santo André;357
+Ribeirão Preto;Santo Antônio da Alegria;97
+Ribeirão Preto;Santos;427
+Ribeirão Preto;São Bento do Sapucaí;378
+Ribeirão Preto;São Bernardo do Campo;387
+Ribeirão Preto;São Caetano do Sul/;362
+Ribeirão Preto;São Carlos;100
+Ribeirão Preto;São Francisco;356
+Ribeirão Preto;São João da Boa Vista;175
+Ribeirão Preto;São João das Duas Pontes;323
+Ribeirão Preto;São João de Iracema;313
+Ribeirão Preto;São Joaquim da Barra;74
+Ribeirão Preto;São José da Bela Vista;84
+Ribeirão Preto;São José do Rio Preto;186
+Ribeirão Preto;São José do Rio Pardo;132
+Ribeirão Preto;São José dos Campos;379
+Ribeirão Preto;São Miguel Arcanjo;359
+Ribeirão Preto;São Paulo;336
+Ribeirão Preto;São Pedro;217
+Ribeirão Preto;São Roque;274
+Ribeirão Preto;São Sebastião;482
+Ribeirão Preto;São Sebastião da Grama;148
+Ribeirão Preto;São Simão;50
+Ribeirão Preto;São Vicente;422
+Ribeirão Preto;Sebastianópolis do Sul;255
+Ribeirão Preto;Serra Azul;44
+Ribeirão Preto;Serra Negra;247
+Ribeirão Preto;Serrana;24
+Ribeirão Preto;Sertãozinho;22
+Ribeirão Preto;Severínia;117
+Ribeirão Preto;Socorro;270
+Ribeirão Preto;Sorocaba;298
+Ribeirão Preto;Sumaré;207
+Ribeirão Preto;Suzano;380
+Ribeirão Preto;Tabapuã;156
+Ribeirão Preto;Tabatinga;125
+Ribeirão Preto;Taboão da Serra;346
+Ribeirão Preto;Taiaçu;92
+Ribeirão Preto;Taiúva;85
+Ribeirão Preto;Tambaú;97
+Ribeirão Preto;Tanabi;227
+Ribeirão Preto;Taquaral;85
+Ribeirão Preto;Taquaritinga;83
+Ribeirão Preto;Taquarituba;329
+Ribeirão Preto;Tatuí;286
+Ribeirão Preto;Taubaté;417
+Ribeirão Preto;Teodoro Sampaio;589
+Ribeirão Preto;Terra Roxa;81
+Ribeirão Preto;Tietê;246
+Ribeirão Preto;Timburi;356
+Ribeirão Preto;Tremembé;424
+Ribeirão Preto;Três Fronteiras;372
+Ribeirão Preto;Tupã;335
+Ribeirão Preto;Tupi Paulista;466
+Ribeirão Preto;Turmalina;348
+Ribeirão Preto;Ubarana;242
+Ribeirão Preto;Ubatuba;513
+Ribeirão Preto;Uchoa;172
+Ribeirão Preto;União Paulista;253
+Ribeirão Preto;Urânia;345
+Ribeirão Preto;Urupês;175
+Ribeirão Preto;Valentim Gentil;285
+Ribeirão Preto;Valinhos;240
+Ribeirão Preto;Valparaíso;371
+Ribeirão Preto;Vargem Grande do Sul;163
+Ribeirão Preto;Vargem Grande Paulista;352
+Ribeirão Preto;Vinhedo;244
+Ribeirão Preto;Viradouro;69
+Ribeirão Preto;Vista Alegre do Alto;98
+Ribeirão Preto;Vitória Brasil;339
+Ribeirão Preto;Votorantim;331
+Ribeirão Preto;Votuporanga;274
+Santos;Aguaí;267
+Santos;Águas de Lindóia;237
+Santos;Americana;220
+Santos;Andradina;709
+Santos;Aparecida;254
+Santos;Araraquara;381
+Santos;Araras;262
+Santos;Assis;516
+Santos;Atibaia;143
+Santos;Avaré;330
+Santos;Barra Bonita;373
+Santos;Barretos;550
+Santos;Barueri;114
+Santos;Bauru;411
+Santos;Bebedouro;487
+Santos;Bertioga;42
+Santos;Biritiba-Mirim;125
+Santos;Botucatu;320
+Santos;Bragança Paulista;163
+Santos;Brotas;370
+Santos;Cabreúva;161
+Santos;Caçapava;189
+Santos;Cajamar;128
+Santos;Cajati;218
+Santos;Campinas;189
+Santos;Campos do Jordão;264
+Santos;Cananéia;247
+Santos;Capivari;223
+Santos;Caraguatatuba;187
+Santos;Carapicuíba;107
+Santos;Catanduva;505
+Santos;Clementina;600
+Santos;Colômbia;576
+Santos;Descalvado;359
+Santos;Diadema;61
+Santos;Dourado;370
+Santos;Dracena;703
+Santos;Eldorado;233
+Santos;Franca;511
+Santos;Garça;468
+Santos;Guaíra;526
+Santos;Guararema;155
+Santos;Guaratinguetá;263
+Santos;Guarujá;10
+Santos;Guarulhos;95
+Santos;Holambra;207
+Santos;Hortolândia;205
+Santos;Ibitinga;460
+Santos;Iguape;191
+Santos;Ilha Solteira;726
+Santos;Ilhabela;165
+Santos;Indaiatuba;192
+Santos;Itanhaém;55
+Santos;Itapetininga;255
+Santos;Itapeva;379
+Santos;Itapevi;108
+Santos;Itapira;263
+Santos;Itariri;99
+Santos;Itu;183
+Santos;Jaboticabal;453
+Santos;Jacareí;148
+Santos;Jacupiranga;207
+Santos;Jales;692
+Santos;Jumirim;236
+Santos;Jundiaí;153
+Santos;Juquiá;147
+Santos;Leme;282
+Santos;Lençóis Paulista;348
+Santos;Limeira;213
+Santos;Lins;515
+Santos;Louveira;163
+Santos;Matão;415
+Santos;Mauá;64
+Santos;Mirante do Paranapanema;700
+Santos;Mococa;358
+Santos;Mogi das Cruzes;120
+Santos;Mogi Guaçu;257
+Santos;Moji-Mirim;246
+Santos;Mongaguá;36
+Santos;Monte Alto;451
+Santos;Narandiba;676
+Santos;Nova Odessa;217
+Santos;Osasco;108
+Santos;Ourinhos;460
+Santos;Paraguaçu Paulista;549
+Santos;Pariquera-Açu;204
+Santos;Paulínia;212
+Santos;Pedro de Toledo;104
+Santos;Penápolis;538
+Santos;Peruíbe;84
+Santos;Piedade;173
+Santos;Pindamonhangaba;228
+Santos;Piracicaba;256
+Santos;Pirapozinho;658
+Santos;Pirassununga;324
+Santos;Pontal;467
+Santos;Porto Feliz;201
+Santos;Pratânia;351
+Santos;Presidente Prudente;638
+Santos;Promissão;514
+Santos;Queiroz;587
+Santos;Rancharia;579
+Santos;Registro;176
+Santos;Ribeirão Pires;65
+Santos;Ribeirão Preto;427
+Santos;Rio Claro;283
+Santos;Salto;189
+Santos;Santa Bárbara d'Oeste;238
+Santos;Santa Gertrudes;262
+Santos;Santa Isabel;132
+Santos;Santa Rita do Passa Quatro;345
+Santos;Santa Rosa de Viterbo;412
+Santos;Santana de Parnaíba;112
+Santos;Santo André;58
+Santos;São Bernardo do Campo;52
+Santos;São Carlos;340
+Santos;São João da Boa Vista;313
+Santos;São José do Rio Pardo;330
+Santos;São José do Rio Preto;546
+Santos;São José dos Campos;154
+Santos;São Lourenço da Serra;126
+Santos;São Paulo;77
+Santos;São Roque;134
+Santos;São Sebastião;170
+Santos;São Vicente;6
+Santos;Serra Negra;216
+Santos;Sertãozinho;450
+Santos;Sete Barras;194
+Santos;Socorro;209
+Santos;Sorocaba;189
+Santos;Sumaré;215
+Santos;Taboão da Serra;88
+Santos;Tambaú;367
+Santos;Taquaritinga;430
+Santos;Tremembé;215
+Santos;Tupã;598
+Santos;Ubatuba;219
+Santos;Valinhos;181
+Santos;Valparaíso;643
+Santos;Vinhedo;172
+Santos;Vargem Grande Paulista;125
+Santos;Vista Alegre do Alto;457
