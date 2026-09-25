@@ -29,45 +29,6 @@ Nenhuma estrutura de dados (`ListaEncadeada`, `ArvoreBinariaBusca`,
 `Grafo`) é importada por `main.py`: ele só conhece as funções dos três
 módulos `atribuicoes_*.py`, como pedido no enunciado.
 
-
-## Como rodar os testes automatizados
-
-```bash
-python3 -m unittest discover -s tests -v
-```
-
-Os testes cobrem a lista encadeada, a árvore binária (inserção, busca,
-renomear, remoção com dois filhos) e o grafo — inclusive dois testes que
-reproduzem exatamente o exemplo do enunciado (pessoa em Vargem Grande
-Paulista): o menor caminho direto dá custo **127** e, passando por
-Indaiatuba, custo **511**, batendo com as figuras do documento do
-projeto.
-
-## Roteiro sugerido para testar manualmente cada perfil
-
-**Secretário(a):**
-1. Cadastre 3–4 pessoas (opção 1) — repare que a cidade é sempre
-   sorteada, nunca digitada.
-2. Consulte uma pessoa existente e uma inexistente (opção 2).
-3. Veja a quantidade cadastrada (opção 3).
-4. Finalize (opção 4) — o sistema passa para o(a) diretor(a).
-
-**Diretor(a):**
-1. Altere o nome de alguém (opção 1 → 1) e depois busque pelo nome
-   antigo (deve dizer "não cadastrada") e pelo novo (deve encontrar).
-2. Altere idade e telefone de outra pessoa.
-3. Descadastre alguém, primeiro digitando **N** (cancela) e depois **S**
-   (confirma) — confira que a pessoa some da lista.
-4. Veja a primeira e a última pessoa em ordem alfabética (opções 3 e 4).
-5. Finalize (opção 5) — o sistema passa para o(a) assistente.
-
-**Assistente:**
-1. Veja a menor distância até a cidade de uma pessoa cadastrada (opção 1).
-2. Veja a menor distância passando por Indaiatuba (opção 2) — repare que
-   o caminho pode repetir cidades, o que é esperado.
-3. Veja a cidade com morador cadastrado mais próxima da escola (opção 3).
-4. Finalize (opção 4) — encerra o programa.
-
 ## Observações de implementação
 
 - **Lista encadeada (secretário):** inserção no fim, busca linear por
@@ -89,9 +50,3 @@ projeto.
   seja, reflete o estado mais atual da lista de espera.
 - `cidades_vizinhas.csv` não foi alterado (conteúdo e formato originais).
 
-## Sugestão de entrega (GitHub)
-
-Como sugerido no enunciado, você pode criar um repositório no GitHub com
-todos os arquivos acima e compartilhá-lo com o tutor. Como o projeto já
-está com os três perfis integrados, o mesmo repositório serve para as
-entregas 4.1, 4.2 e 4.3 — cada entrega pode corresponder a um commit.
